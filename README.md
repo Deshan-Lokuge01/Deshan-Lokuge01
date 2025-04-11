@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deshan Sewinda Lokuge </h1>
-<h3 align="center">A passionate network, telecommunication and electronic undergraduate. </h3>
+<h3 align="center">A Passionate Network, Telecommunication and Electronic Engineering  Undergraduate. </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deshan-lokuge01&label=Profile%20views&color=0e75b6&style=flat" alt="deshan-lokuge01" /> </p>
 
 - 🔭 I’m currently working on **Secure Networking Project**
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **deshanlokuge124@gmail.com**
 
-- 📄 Know about my experiences [Former IoT intern at SLT Telecome, Sri Lanka](Former IoT intern at SLT Telecome, Sri Lanka)
+- 📄 Know about my experiences Former IoT intern at SLT Telecome, Sri Lanka, Colombo.
 
 - ---
 
