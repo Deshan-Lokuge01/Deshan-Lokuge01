@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Deshan Sewinda Lokuge </h1>
-<h3 align="center">A Passionate Network, Telecommunication and Electronic Engineering  Undergraduate. </h3>
+<h3 align="center">Passionate Network, Telecommunication and Electronic Engineering  Undergraduate </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deshan-lokuge01&label=Profile%20views&color=0e75b6&style=flat" alt="deshan-lokuge01" /> </p>
 
 - 🔭 I’m currently working on **Secure Networking Project**
 
-- 🌱 I’m currently learning **Electrical and Information Engineering ,University of Ruhuna**
+- 🌱 I’m currently studying **Electrical and Information Engineering ,University of Ruhuna**
 
-- 👯 I’m looking to collaborate on **Online Voucher Web Portal**
+- 👯 I’m currenlty collaborating on **Online Voucher Web Portal**
 
 - 💬 Ask me about **Networking-IoT-Electronics**
 
