@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Deshan Sewinda Lokuge </h1>
+
 <h3 align="center">Passionate Network, Telecommunication and Electronic Engineering  Undergraduate </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deshan-lokuge01&label=Profile%20views&color=0e75b6&style=flat" alt="deshan-lokuge01" /> </p>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
 - 🔭 I’m currently working on **Secure Networking Project**
 
@@ -32,6 +37,12 @@
 </p>
 
 ---
+
+# My Github stats
+![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshan-Lokuge01&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+##
 <h3 align="left">Connect with me :</h3>
 <p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/deshan-lokuge-2001llds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deshan-lokuge-2001llds" height="30" width="40" /></a> <a href="https://instagram.com/https://www.instagram.com/deshan_lokuge?igsh=dgr6a25sc2m4zjh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deshan_lokuge?igsh=dgr6a25sc2m4zjh0" height="30" width="40" /></a>
