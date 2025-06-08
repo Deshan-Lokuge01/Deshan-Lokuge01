@@ -45,13 +45,9 @@
 ##
 <h3 align="left">Connect with me :</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/deshan-lokuge-2001llds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deshan-lokuge-2001llds" height="30" width="40" /></a> 
-
-<a href="mailto:deshanlokuuge124@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/White/Gmail_white.png" alt="deshanlokuuge124@gmail.com" height="30" width="40" />
-</a>
-  
-  <a href="https://instagram.com/https://www.instagram.com/deshan_lokuge?igsh=dgr6a25sc2m4zjh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deshan_lokuge?igsh=dgr6a25sc2m4zjh0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deshan-lokuge-2001llds/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deshan-lokuge-2001llds" height="30" width="40" /></a> <a href="mailto:deshanlokuuge124@gmail.com" target="blank">
+  <img align="center" src="https://pngate.com/wp-content/uploads/2025/03/gmail-logo-main-icon-1.png" alt="deshanlokuuge124@gmail.com" height="30" width="40" />
+</a> <a href="https://instagram.com/https://www.instagram.com/deshan_lokuge?igsh=dgr6a25sc2m4zjh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/deshan_lokuge?igsh=dgr6a25sc2m4zjh0" height="30" width="40" /></a>
 </p>
 
 
