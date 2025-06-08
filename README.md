@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Networking-IoT-Electronics**
 
-- 📫 How to reach me **deshanlokuge124@gmail.com**
+- 📫 How to reach me <a href="mailto:deshanlokuge124@gmail.com"><strong>deshanlokuge124@gmail.com</strong></a>
 
 - 📄 Know about my experiences Former IoT intern at SLT Telecome, Sri Lanka, Colombo
 
