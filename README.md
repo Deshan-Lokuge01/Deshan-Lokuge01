@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently studying **Electrical and Information Engineering ,University of Ruhuna**
 
-- 👯 I’m currenlty collaborating on **Online Voucher Web Portal **
+- 👯 I’m currenlty collaborating on **Online Voucher Web Portal**
 
 - 💬 Ask me about **Networking-IoT-Electronics**
 
