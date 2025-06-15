@@ -7,11 +7,11 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 🔭 I’m currently working on **Secure Networking Project**
+- 🔭 I’m currently working on **Offesnive and Defensive PEN Tool**
 
 - 🌱 I’m currently studying **Electrical and Information Engineering ,University of Ruhuna**
 
-- 👯 I’m currenlty collaborating on **Online Voucher Web Portal**
+- 👯 I’m currenlty collaborating on **Online Voucher Web Portal **
 
 - 💬 Ask me about **Networking-IoT-Electronics**
 
