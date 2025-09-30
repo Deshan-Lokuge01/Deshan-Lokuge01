@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deshan Sewinda Lokuge </h1>
 
-<h3 align="center">Passionate Network, Telecommunication and Electronic Engineering  Undergraduate </h3>
+<h3 align="center">Passionate Network, Security and Electronic Engineering  Undergraduate </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deshan-lokuge01&label=Profile%20views&color=0e75b6&style=flat" alt="deshan-lokuge01" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
