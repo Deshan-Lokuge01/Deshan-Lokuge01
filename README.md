@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Deshan Sewinda Lokuge </h1>
 
-<h3 align="center">Passionate Network, Security and Electronic Engineering  Undergraduate </h3>
+<h3 align="center">Passionate Network Security and Electronic Engineering  Undergraduate </h3>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=deshan-lokuge01&label=Profile%20views&color=0e75b6&style=flat" alt="deshan-lokuge01" /> </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
 
-- 🔭 I’m currently working on **Industrial Real Time Monitoring System Designing**
+- 🔭 I’m currently working on **Threat Containtment Strategies of xApps in Open RAN**
 
-- 🌱 I’m currently studying **Electrical and Information Engineering ,University of Ruhuna**
+- 🌱 I’m currently studying **Electrical and Information Engineering, University of Ruhuna | Specializing Networking and Security Domain**
 
-- 👯 I’m currenlty collaborating on **Online Voucher Web Portal**
+- 👯 I’m currenlty collaborating on **Project ORAN**
 
-- 💬 Ask me about **Networking-IoT-Electronics**
+- 💬 Ask me about **Networking-Security-IoT-Electronics**
 
 - 📫 How to reach me: [deshanlokuge124@gmail.com](mailto:deshanlokuge124@gmail.com)
 
