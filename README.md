@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: [deshanlokuge124@gmail.com](mailto:deshanlokuge124@gmail.com)
 
-- 📄 Know about my experiences Former IoT intern at SLT Telecome, Sri Lanka, Colombo  | [SLT](https://github.com/Deshan-Lokuge01/Public_Info/blob/main/SLT_Internship_Certificate.pdf)  | [SIL](https://github.com/Deshan-Lokuge01/Certfication/blob/main/SIL%20service%20letter.pdf)
+- 📄 Know about my experiences Former IoT intern at SLT Telecome, Sri Lanka, Colombo  | [SLT](https://github.com/Deshan-Lokuge01/Public_Info/blob/main/SLT_Internship_Certificate.pdf)  and [SIL](https://github.com/Deshan-Lokuge01/Certfication/blob/main/SIL%20service%20letter.pdf)
 
 - ---
 
