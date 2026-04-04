@@ -42,6 +42,16 @@
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deshan-Lokuge01&hide=issues&show_icons=true&theme=gotham)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreevishnu-ux&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <h2>📊 My GitHub Stats</h2>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deshan-Lokuge01&theme=gotham&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider" width="500" />
+</div>
+
 ##
 <h3 align="left">Connect with me :</h3>
 <p align="center">
