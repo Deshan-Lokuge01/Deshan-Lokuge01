@@ -38,8 +38,8 @@
 
 ---
 # My Github stats
-![Deshan's GitHub stats](https://[YOUR_NEW_VERCEL_URL]/api?username=Deshan-Lokuge01&hide=issues&show_icons=true&theme=gotham)
-[![Top Langs](https://[YOUR_NEW_VERCEL_URL]/api/top-langs/?username=Deshan-Lokuge01&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![Deshan's GitHub stats](https://github-readme-stats-theta-ten-17.vercel.app/api?username=Deshan-Lokuge01&hide=issues&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats-theta-ten-17.vercel.app/api/top-langs/?username=Deshan-Lokuge01&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <h2>📊 My GitHub Stats</h2>
